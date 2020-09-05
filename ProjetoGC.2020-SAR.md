@@ -1,21 +1,26 @@
 PROJETO DE REESTRUTURAÇÃO DA GESTÃO DE CONHECIMENTO NA SAR
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/sX4GK-UyQx2O93Bw-Dz10A/badge)](https://hackmd.io/sX4GK-UyQx2O93Bw-Dz10A)
+
 ## PRODUTO 1 - DIAGNÓSTICO
 
 ### 1 – Objetivo
 
-Este diagnóstico consiste numa **pesquisa exploratória** para orientar o desenvolvimento do _Projeto de Reestruturação da Gestão do Conhecimento na SAR_. .
+Este diagnóstico consiste numa **avaliação exploratória** para orientar o desenvolvimento do projeto.
 
-É o **primeiro** dos oito produtos planejados e visa identificar as necessidades e expectativas de cada uma das áreas da SAR, sob a **ótica dos gestores e servidores**, com relação ao funcionamento da Gestão do Conhecimento na superintendência.
+É o **primeiro** dos oito produtos que compõem o _Projeto de Reestruturação da Gestão do Conhecimento na SAR_.
+
+Visa identificar as necessidades e expectativas de cada uma das áreas da SAR, sob a **ótica dos servidores e gestores**, com relação ao funcionamento da Gestão do Conhecimento da agência.
 
 Foram cobertos os seguintes pontos:
 
-1. Necessidades e expectativas gerais sobre gestão do conhecimento.
+1. Necessidades e expectativas gerais.
 1. Infraestrutura e ferramentas.
 1. Conteúdos críticos sobre processos e atividades da SAR.
-1. Áreas temáticas e pessoal-chave relacionado, em cada gerência.
-1. Necessidades imediatas de gestão do conhecimento associada às metas das gerências para o ano de 2020.
+1. Áreas temáticas e pessoal-chave relacionado em cada gerência.
+1. Necessidades imediatas de gestão do conhecimento das gerências.
 
 ### 2 – Introdução
 
@@ -24,54 +29,24 @@ O ponto de partida do **Projeto de Reestruturação da GC na SAR** é a identifi
 > Ausência de um sistema estruturado para a gestão do conhecimento na SAR, refletindo em ações isoladas e sem coordenação, bem como no desinteresse das áreas na adoção de soluções de GC em seus processos. [\(Plano do Projeto - SEI nº xxxx\)](https:// "title")
 > [color=#1b71e2]
 
-Nesse sentido, a pesquisa exploratória consiste em uma metodologia adequada para ampliar a compreensão do problema que está sendo investigado, permitindo que os trabalhos posteriores sejam dirigidos com maior assertividade. 
+Mesmo com a percepção do problema por parte dos integrantes da GTGC, para que tivesse uma adesão mais abrangente por parte de todos os servidores da SAR, seria importante entender quais as expectativas com relação ao tema e, também, que elementos e ferramentas representariam atrativos sob a ótica desse público alvo (gestores e servidores em geral).   
 
-Também foi considerado um recorte amostral com três gerências da SAR, a saber: **GTRAB, GTPA e GTAR-RJ**, experimentando um _projeto piloto_ antes de expandir a aplicação para as demais gerências.
-
-Quanto às técnicas aplicadas, o diagnóstico contou com a realização de **entrevistas semi-estruturadas com gestores e pessoal-chave** (GTRAB e GTPA) e de **questionário para servidores** (GTAR-RJ). 
-
-Ressalta-se que na aplicação às demais gerências, a pesquisa exploratória pode ser realizada através de **diversas técnicas de investigação** (entrevistas, estudos de caso, análise histórica, etnografia e outras). Essa variedade contribui para observar em detalhe as áreas que necessitam de atenção e esforços adicionais, reservando a capacidade de substituir a técnica aplicada dada a especificidade do problema de uma área ou a ocorrência de dificuldades, de resistências ou de riscos que comprometam a sua realização.
-
-Essa flexibilidade permite aprofundar a compreensão do problema e formular alternativas mais específicas ao longo do desenvolvimento do projeto, **identificando padrões e descobrindo elementos novos** sobre o problema investigado; uma vez que eram desconhecidos durante a fase de proposição e planejamento.
-
-Isto posto, o trabalho realizado buscou construir uma visão geral e aproximada do problema, avaliando se conceitos e modelos existentes são adequados à gestão do conhecimento na superintendência ou se novas abordagens devem ser implementadas.
-
-A realização de entrevistas e do questionário com pessoas que têm desafios práticos em gerenciar conhecimento, somado à análise e interação direta da GTGC com exemplos mais urgentes de cada gerência (projeto [_RabDigital_](https://sistemas.anac.gov.br/wiki/index.php/Projeto:Rab_Digital) e o projeto de [_Reformulação e migração do portal da ANAC_](https://sistemas.anac.gov.br/wiki/index.php/Projeto:Reformula%C3%A7%C3%A3o_e_migra%C3%A7%C3%A3o_do_portal_da_ANAC_(2020))), permitiu desenvolver uma compreensão mais precisa do problema imediato de gestão do conhecimento aplicado aos casos, indicando desafios a serem enfrentados por essas áreas nas etapas posteriores do projeto. 
-
-A percepção do problema na GTGC, considerando a adesão mais abrangente por parte dos integrantes da SAR, demandou também a identificação de ferramentas potenciais para lidar com a complexidade dos temas da superintendência. Sendo necessário, a um mesmo tempo, restringir as opções em função dos recursos e das limitações da equipe disponível, e encontrar uma forma de testar conceitos e usabilidade das ferramentas para os executores do projeto na GTGC, os gestores e os demais servidores.
-
-> []Em função da pandemia e das alterações impostas pela Portaria Nº 528, de 26/09/2019, do Ministério da Economia, que estabelece diretrizes de avaliação de desempenho individual e institucional, o Projeto de GC teve seu escopo reduzido para o ano de 2020, de forma que algumas entregas concretas pudessem ser realizadas, atendendo, dessa forma, às imposições da referida Portaria. Como consequência, o Projeto de GC acabou sendo estruturado com a seguinte configuração:
-> 	Escopo limitado a três (03) dos oito produtos originais, a saber: (1) Diagnóstico, (2) identificação de Processos & Conhecimentos Críticos e (3) Banco de Especialistas;
-	Assumiu a configuração de “projeto piloto”, a ser aplicado em um número reduzido de áreas da SAR; e 
-	Pelo fato de ser um projeto piloto, mais de uma abordagem foi adotada para o Diagnóstico, de forma que viesse a servir de “laboratório” para as etapas vindouras do Projeto, que ocorrerão no ano de 2021.
+Paralelamente à necessidade identificada de um diagnóstico, em função da pandemia e das alterações impostas pela Portaria Nº 528, de 26/09/2019, do Ministério da Economia, que estabelece diretrizes de avaliação de desempenho individual e institucional, o Projeto de GC teve seu escopo reduzido para o ano de 2020, de forma que algumas entregas concretas pudessem ser realizadas, atendendo, dessa forma, às imposições da referida Portaria. Como consequência, o Projeto de GC acabou sendo estruturado com a seguinte configuração:
 	Escopo limitado a três (03) dos oito produtos originais, a saber: (1) Diagnóstico, (2) identificação de Processos & Conhecimentos Críticos e (3) Banco de Especialistas;
 	Assumiu a configuração de “projeto piloto”, a ser aplicado em um número reduzido de áreas da SAR; e 
 	Pelo fato de ser um projeto piloto, mais de uma abordagem foi adotada para o Diagnóstico, de forma que viesse a servir de “laboratório” para as etapas vindouras do Projeto, que ocorrerão no ano de 2021.
-   > [name=Gabriel Santiago Macedo]: Não considero que essas foram as ações tomadas no âmbito do diagnóstico, seriam informações para um relatório final, se for o caso. Considerando o diagnóstico, o projeto continua com seu escopo como pensado, aplicado a 3 áreas da SAR, uma vez que a aplicação das técnicas de pesquisa já foram pensadas dentro da pandemia. Entendo que essa parte do texto pode ser suprimida.
+   
 
-### 3 – Desenvolvimento do diagnóstico
+3 – Da metodologia adotada
 
-Conforme descrito acima, visando lidar com as incertezas do objeto pesquisado e com o contexto de migração imediata para trabalho remoto, em função da pandemia da COVID-19, foram aplicadas duas técnicas de pesquisa: **entrevistas semi-estruturadas com gestores e pessoal-chave** (GTRAB e GTPA) e **questionário para servidores** (GTAR-RJ).
+Conforme descrito no item anterior, esta etapa inicial do Projeto de 2020 será usada também com o intuito de fazer alguns testes, para otimizar as metodologias e produtos, quando forem aplicados a toda a SAR.
 
-Destarte, friza-se que outros métodos foram avaliados e descartados pela equipe da GTGC durante o processo. No entanto, a utilização destes e a sua documentação poderá ser resgatada no ambiente de gerenciamento do trello, utilizado em conjunto com o SEI para o acompanhamento do projeto: [trello do projeto de Reestruturação da Gestão do Conhecimento na SAR](https://trello.com/b/zLsraHmg/projeto-reestrutura%C3%A7%C3%A3o-gest%C3%A3o-do-conhecimento).
+No caso do Diagnóstico, foram definidas duas abordagens: Uma um pouco mais lenta, porém mais estruturante, e outra um pouco mais condensada, ágil , com resultados no curto prazo, descritas a seguir.
 
-O relatório abaixo, para fins de organização, seguirá a consolidação considerando as técnicas aplicadas e os comentários sobre os achados da investigação. 
+Ao final do Projeto Piloto, iremos avaliar as vantagens e desvantagens de cada uma das metodologias em função dos resultados obtidos e optar por uma, por outra ou por uma mescla de metodologias.
   
-#### 3.1 - Entrevistas semi-estruturadas com gestores e pessoal-chave
 
-Gerências entrevistadas: GTRAB e GTPA.
-Referências empregadas
-Documentação
-Resultados
-Pontos fortes
-Pontos fracos
-Necessidades futuras
-
-
-
-
-
-#### 3.2 – Aplicação de questionário online para servidores 
+3.1 – Abordagem Estruturante  
  
 O desenho esquemático resume, de forma genérica, a estrutura do projeto, que, de forma macro, é dividido em: “coleta de dados”, “estruturação do sistema de GC” e “implementação e uso”. Todos os três produtos do Projeto Piloto de 2020 estão contidos nessa etapa inicial de coleta de dados, que tem sua abertura com o Diagnóstico, consolidado no presente relatório. 
 
@@ -89,10 +64,11 @@ Por outro lado, tem como desvantagens:
 
 
 
+3.2 – Abordagem de Curto Prazo
 
 xxxxxxxxxxxxxxxxxxxxxxxx
 
-Descrever de forma dissertativa quais foram os  na aula prática para a sua execução. Mencionar quais tipos de materiais foram utilizados, qual temperatura de ensaio, geometria e dimensões dos corpos de prova, condições de ensaio ou técnicas utilizadas como frequência de ensaio etc... Descrever quais variáveis foram envolvidas no processo e quais técnicas foram empregadas nos ensaios, podendo ainda citar quais poderiam ser empregadas para a melhoria do mesmo. Apresentar esquemas das máquinas, imagens explicando os sensores, sistemas ou equipamentos usados em aula para a obtenção dos resultados. Descrever os procedimentos experimentais de tal forma que, a técnica empregada possa ser compreendida e reproduzida por outro profissional para a obtenção de resultados similares.
+Descrever de forma dissertativa quais foram os materiais e métodos empregados na aula prática para a sua execução. Mencionar quais tipos de materiais foram utilizados, qual temperatura de ensaio, geometria e dimensões dos corpos de prova, condições de ensaio ou técnicas utilizadas como frequência de ensaio etc... Descrever quais variáveis foram envolvidas no processo e quais técnicas foram empregadas nos ensaios, podendo ainda citar quais poderiam ser empregadas para a melhoria do mesmo. Apresentar esquemas das máquinas, imagens explicando os sensores, sistemas ou equipamentos usados em aula para a obtenção dos resultados. Descrever os procedimentos experimentais de tal forma que, a técnica empregada possa ser compreendida e reproduzida por outro profissional para a obtenção de resultados similares.
 
 
 4 – Resultados e Discussão – Abordagem Estruturante
