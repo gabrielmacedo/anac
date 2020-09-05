@@ -1,6 +1,9 @@
 PROJETO DE REESTRUTURAÇÃO DA GESTÃO DE CONHECIMENTO NA SAR
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/sX4GK-UyQx2O93Bw-Dz10A/badge)](https://hackmd.io/sX4GK-UyQx2O93Bw-Dz10A)
+
 ## PRODUTO 1 - DIAGNÓSTICO
 
 ### 1 – Objetivo
@@ -9,15 +12,15 @@ Este diagnóstico consiste numa **avaliação exploratória** para orientar o de
 
 É o **primeiro** dos oito produtos que compõem o _Projeto de Reestruturação da Gestão do Conhecimento na SAR_.
 
-Visa identificar as necessidades e expectativas de cada uma das áreas da SAR, sob a ótica dos servidores e gestores, com relação ao funcionamento da Gestão do Conhecimento.
+Visa identificar as necessidades e expectativas de cada uma das áreas da SAR, sob a **ótica dos servidores e gestores**, com relação ao funcionamento da Gestão do Conhecimento da agência.
 
 Foram cobertos os seguintes pontos:
 
 1. Necessidades e expectativas gerais.
 1. Infraestrutura e ferramentas.
 1. Conteúdos críticos sobre processos e atividades da SAR.
-1. Identificação de áreas temáticas e do pessoal-chave relacionado em cada gerência.
-1. Identificação de necessidades imediatas.
+1. Áreas temáticas e pessoal-chave relacionado em cada gerência.
+1. Necessidades imediatas de gestão do conhecimento das gerências.
 
 ### 2 – Introdução
 
