@@ -1,5 +1,18 @@
+---
+title: PROJETO DE REESTRUTURAÇÃO DA GESTÃO DE CONHECIMENTO NA SAR
+date: 11/09/2020
+authors: Carlos Eduardo Pessanha Couto, Gabriel Santiago Macedo, Marcos Simplício Souza da Silva, Marcos Vinicios de Lima.
+manager: Henrique Shimanuki Muta. 
+description: Pesquisa exploratória para orientar o desenvolvimento do Projeto de Reestruturação da Gestão do Conhecimento na SAR. É o primeiro dos oito produtos planejados e visa identificar as necessidades e expectativas de cada uma das áreas da SAR, sob a ótica dos gestores e servidores, com relação ao funcionamento da Gestão do Conhecimento (GC) na Superintendência.
+tags: anac, projeto, gestão do conhecimento, diagnóstico, 2020
+lang: pt
+ga: G-Z0BFNTLJWS
+---
+
 PROJETO DE REESTRUTURAÇÃO DA GESTÃO DE CONHECIMENTO NA SAR
 ===
+
+###### tags: `anac` `projeto` `gestão do conhecimento` `diagnóstico` `2020`
 
 ## PRODUTO 1 - DIAGNÓSTICO
 
@@ -20,12 +33,14 @@ De modo complementar, durante a evolução do projeto e a realização do diagn�
 1. Áreas temáticas para a gestão do conhecimento e pessoal-chave relacionado (GTRAB e GTPA).
 1. Necessidades imediatas de gestão do conhecimento das gerêcencias e demandas vinculadas aos projetos específicos para 2020, desenvolvidos em conjunto entre a GTGC e as gerências (GTRAB e GTPA).
 
-### 2 – Introdução
+Ressalta-se que esse documento também pode ser acessado pelo link XXXXXX.
+
+### 2  Introdução
 
 O ponto de partida do **Projeto de Reestruturação da GC na SAR** é a identificação do problema a ser abordado, descrito como:
 
 > Ausência de um sistema estruturado para a gestão do conhecimento na SAR, refletindo em ações isoladas e sem coordenação, bem como no desinteresse das áreas na adoção de soluções de GC em seus processos. 
-> (**[Plano do Projeto - SEI nº 4484155](https://sei.anac.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TT-9wiV87tUe-JD7E0j2ppaQZlBuM4x2uvGSBsiYrL0Yf33cs4SL0DH7Kda0RusWsZpy4t_ji_adkNFjG-sv05)**)
+> ([**Plano do Projeto - SEI nº 4484155**](https://sei.anac.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TT-9wiV87tUe-JD7E0j2ppaQZlBuM4x2uvGSBsiYrL0Yf33cs4SL0DH7Kda0RusWsZpy4t_ji_adkNFjG-sv05))
 > [color=#1b71e2]
 
 Nesse sentido, a pesquisa exploratória consiste em uma metodologia adequada para ampliar a compreensão do problema que está sendo investigado, permitindo que os trabalhos posteriores sejam dirigidos com maior assertividade. 
@@ -189,7 +204,7 @@ A segunda gerência abordada foi a **GTPA**. A entrevista ocorreu no dia 18/06/2
 >
 > 1. Quais os principais desafios enfrentados pela área para a gestão do conhecimento?
 > [color=#1b71e2]
-> **Escopo**: Muitos assuntos, processos transversais. Necessidade de compreender quase todos os temas que a SAR trabalha (baixo nível de aprofundamento). 
+> **Escopo**: Muitos assuntos, processos transversais. Necessidade de compreender quase todos os temas que a SAR trabalha (baixo nível de aprofundamento).
 **Destaques**:
 •	**Julgamento de primeira instância** (JPI/PAS – Processo Administrativo Sancionador), conhecimento da legislação da atividade sancionadora (direito); conhecimento da parte técnica (conteúdo, substância) do processo sancionatório (mérito); conhecimento dos meios de cumprimento da regulação. Articulação entre Direito e Área técnica.
 •	**Respostas às manifestações**. NEA poupa as áreas para repetir repostas aos regulados. **Identificar conhecimento anterior, organizar e difundir** (site, banco de conhecimento) para respostas futuras. Acumulador e organizador de conhecimento para público externo e interno. Site da ANAC como repositório da SAR.
@@ -330,23 +345,25 @@ Visando facilitar o resgate dessas informações, as duas iniciativas foram clas
 > *  RAB Digital - Categorias: [**Projetos**](https://sistemas.anac.gov.br/wiki/index.php/Categoria:Projetos) e [**Registro de aeronaves**](https://sistemas.anac.gov.br/wiki/index.php/Categoria:Registro_de_aeronaves).
 > *  Reformulação e Migração do portal da ANAC - Categorias: [**Projetos prioritários**](https://sistemas.anac.gov.br/wiki/index.php/Categoria:Projetos_priorit%C3%A1rios) e [**Comunicação**](https://sistemas.anac.gov.br/wiki/index.php/Categoria:Comunica%C3%A7%C3%A3o).
 
-#### 3.2 – Aplicação de questionário online para servidores 
+#### 3.2 – Utilização de questionário online para servidores 
  
-O questionário aplicado foi composto por seis perguntas, listadas abaixo, a serem respondidas pelos servidores da GTAR/RJ.  
-1. O que você mais valoriza na disponibilização de conhecimentos? Obter informações com poucos *clicks* no mouse ou tela; Variedade de conteúdo; Profundidade de conteúdo.
-2. Quais as características das ferramentas de TI, utilizada no acesso aos conhecimentos, você mais valorizaria? Centralização das buscas/pesquisas em um ponto (ou portal) único; Acesso remoto por celular, *tablet* ou *notebook* (*sujeito à análise técnica); Possibilidade de estruturar dados com ferramentas como Power BI (mineração de dados).
-3. Priorize as afirmativas abaixo: Interface amistosa é o principal em ferramentas como essas; Acesso remoto é tudo!; Mesmo que o acesso seja mais complexo, o que eu quero éencontrar o que eu busco.
-4. Quais as expectativas em relação aos “conteúdos de conhecimento” disponibilizados? Profundidade do conteúdo técnico; Diversidade de conteúdo técnico; Conexão clara com os processos/atividades da Agência.
-5. Quais dos pontos a seguir lhe parece ser mais atrativo? Possibilidade de incluir e extrair conteúdo do banco de dados (interatividade); Possibilidade de encontrar com facilidade especialistas em assuntos complexos ou específicos, seja dentro ou fora da SAR (*sujeito à análise de viabilidade); Possibilidade de obter os conhecimentos disponíveis associados ao processo de trabalho desejado (ex: informações de aeronaves por modelo ou número de série).
-6. Com relação a um banco de especialistas (páginas amarelas), você gostaria de: Perguntar e obter uma resposta o mais rapidamente possível para uma dúvida técnica; Ter clareza da profundidade de conhecimentos do especialista sobre o assunto; Obter uma lista de especialistas, não importando muito o nível de profundidade dele sobre o tema, que seria verificado posteriormente e diretamente.
+O questionário aplicado foi composto por seis perguntas, listadas abaixo, a serem respondidas pelos servidores da GTAR/RJ.
+|Pergunta|Resposta 1|Resposta 2|Resposta 3|
+|--------|----------|----------|----------|
+|**O que você mais valoriza na disponibilização de conhecimentos?**|Obter informações com poucos *clicks* no mouse ou tela|Variedade de conteúdo|Profundidade de conteúdo|
+|**Quais as características das ferramentas de TI, utilizada no acesso aos conhecimentos, você mais valorizaria?**|Centralização das buscas/pesquisas em um ponto (ou portal) único|Acesso remoto por celular, *tablet* ou *notebook* (*sujeito à análise técnica)| Possibilidade de estruturar dados com ferramentas como Power BI (mineração de dados)|
+|**Priorize as afirmativas abaixo**|Interface amistosa é o principal em ferramentas como essas|Acesso remoto é tudo!|Mesmo que o acesso seja mais complexo, o que eu quero éencontrar o que eu busco|
+|**Quais as expectativas em relação aos “conteúdos de conhecimento” disponibilizados?**|Profundidade do conteúdo técnico|Diversidade de conteúdo técnico|Conexão clara com os processos/atividades da Agência|
+|**Quais dos pontos a seguir lhe parece ser mais atrativo?**|Possibilidade de incluir e extrair conteúdo do banco de dados (interatividade)|Possibilidade de encontrar com facilidade especialistas em assuntos complexos ou específicos, seja dentro ou fora da SAR (*sujeito à análise de viabilidade)|Possibilidade de obter os conhecimentos disponíveis associados ao processo de trabalho desejado (ex: informações de aeronaves por modelo ou número de série)|
+|**Com relação a um banco de especialistas (páginas amarelas), você gostaria de:**|Perguntar e obter uma resposta o mais rapidamente possível para uma dúvida técnica|Ter clareza da profundidade de conhecimentos do especialista sobre o assunto|Obter uma lista de especialistas, não importando muito o nível de profundidade dele sobre o tema, que seria verificado posteriormente e diretamente|
 
-As possíveis respostas foram graduadas em três níveis (muito relevante, relevante e pouco relevante), além de cada questionamento dispor de um campo livre para respostas. Cada resposta só poderia ser escolhida uma única vez para cada pergunta, dado que o objetivo do questionário era diagnosticar as prioridades da área para a gestão do conhecimento.
+As possíveis respostas foram graduadas em três níveis (muito relevante, relevante e pouco relevante), além de cada questionamento dispor de um campo livre para respostas subjetivas. Certa resposta só poderia ser escolhida uma única vez para cada pergunta, dado que o objetivo do questionário era diagnosticar as prioridades da área para a gestão do conhecimento.
 
-Antes do encaminhamento do link do formulário por e-mail aos servidores, a equipe da GTGC promoveu uma reunião de promoção e conscientização do gestor e dos líderes da área. Como resultado, o gestor da GTAR/RJ estimulou os servidores a contribuírem, sendo este um fator direto de sucesso para a iniciativa.
+Antes do encaminhamento do link do formulário por e-mail aos servidores, a equipe da GTGC realizou uma reunião de promoção e conscientização do gestor e dos líderes da área. Como resultado, o gestor da GTAR/RJ estimulou os servidores a contribuírem, sendo este um fator direto de sucesso para a iniciativa.
 
 ##### 3.2.1 Aplicação do questionário e seus resultados
 
-A seguir, serão apresentados os resultados de cada uma das perguntas, bem como a análise qualitativa, buscando retratar o cenário retratado pelo questionário.
+A seguir, serão apresentados os resultados de cada uma das perguntas, bem como a análise qualitativa, buscando retratar o cenário depreendido pelo questionário.
 
 ###### 3.2.1.1 - O que você mais valoriza na disponibilização de conhecimentos?
 
@@ -354,35 +371,35 @@ A seguir, serão apresentados os resultados de cada uma das perguntas, bem como 
 
 Esse tipo de pergunta foi idealizado para definir o quão importante são as interfaces “ferramentas x pessoas” a serem adotadas em GC. 
 
-O principal aspecto observado, no tocante ao conteúdo que for disponibilizado, é que a “profundidade” do conhecimento tem mais importância para o usuário do que a variedade ou quantidade. E o que isso sinaliza? Que é melhor focar na qualidade, dedicando um pouco mais de tempo ao que é ofertado, com uma menor preocupação em montar uma grande base de conhecimentos superficiais.  
+O principal aspecto observado, no tocante ao conteúdo que for disponibilizado, é que a profundidade do conhecimento tem mais importância para o usuário do que a variedade ou quantidade. E o que isso sinaliza? Que é melhor focar na qualidade, dedicando um pouco mais de tempo ao que é ofertado, com uma menor preocupação em estabelecer uma grande base de conhecimentos superficiais.  
 
-Com relação à facilidade para “localizar” o conhecimento buscado, houve relativo equilíbrio entre “encontrar com facilidade” e “perder um pouco mais de tempo com as buscas”. Esse resultado talvez indique um equilíbrio entre os servidores que têm maior familiaridade com as ferramentas de TI em relação aos que têm menos. 
+Com relação à facilidade para localizar o conhecimento buscado, houve relativo equilíbrio entre “encontrar com facilidade” e “perder um pouco mais de tempo com as buscas”. Esse resultado talvez indique um paridade entre os servidores que têm mais familiaridade com as ferramentas de TI em relação aos que têm menos. 
 
 ###### 3.2.1.2 - Quais as características das ferramentas de TI, utilizadas no acesso aos conhecimentos, você mais valorizaria?
 
 ![](https://i.imgur.com/QyO7bDV.png)
 
-Logo de imediato, percebe-se que os servidores consultados não valorizam a possibilidade de poder “trabalhar” os dados, mas isso pode estar relacionado às atividades da área. A GTAR/RJ executa um trabalho mais operacional e, por isso,  as atividades do dia-a-dia sejam mais relevantes, e não a possibilidade de estruturar ou “rearrumar” informações e conhecimentos disponibilizados. O resultado talvez fosse diferente em outra área.
+À primeira vista, percebe-se que os servidores consultados não valorizam a possibilidade de minerar os dados, mas isso pode estar relacionado às atividades da área. A GTAR/RJ executa um trabalho mais operacional e, por isso,  as atividades do dia-a-dia podem ser mais relevantes, e não a possibilidade de estruturar ou rearranjar informações e conhecimentos disponibilizados. O resultado talvez fosse diferente em outra área, que execute atividades mais conceituais.
 
-A primeira pergunta traduz uma dificuldade há muito enfrentada pelos servidores, em especial os das áreas operacionais: muitos sistemas que não “se falam”. Talvez isso indique que a “entrada” para as buscas de qualquer tipo de conhecimento ou informação tenha que ocorrer em um único lugar, independentemente de sistemas e ferramentas. 
+A primeira pergunta traduz uma dificuldade há muito enfrentada pelos servidores, em especial os das áreas operacionais: muitos sistemas que não são interoperáveis. Talvez isso indique que a “entrada” para as buscas de qualquer tipo de conhecimento ou informação tenha que ocorrer em um único lugar, independentemente de sistemas e ferramentas. 
 
-Já se estivermos falando de acesso remoto, principalmente para áreas operacionais e com trabalho de campo, esse tipo de acesso é relevante ou muito relevante. Isso, de antemão, já define esse pré-requisito para as ferramentas de TI e justifica a avaliação de uma ideia inicial da existência de algum aplicativo de acesso aos sistemas de GC via celular. 
+Já se estivermos falando de acesso remoto, principalmente para áreas operacionais e com trabalho de campo, esse tipo de acesso é relevante ou muito relevante. Isso, de antemão, já define esse pré-requisito para as ferramentas de TI e justifica a avaliação de uma ideia inicial da existência de algum aplicativo de acesso aos sistemas de GC via celular, considerando as limitações inerentes à implementação da solução.
 
 ###### 3.2.1.3 - Priorize as afirmativas abaixo
 
 ![](https://i.imgur.com/XnqzpUl.png)
 
-A ideia por trás desse tipo de pergunta é captar uma percepção mais imediata e instintiva dos usuários de GC.  
+O objetivo desse tipo de pergunta é captar uma percepção mais imediata e instintiva dos usuários de GC.  
 Os questionamentos contidos no item revelam:
-- Que o conceito relacionado à “interface amistosa” com as ferramentas de TI adotadas para GC não parece ter um peso demasiadamente relevante com relação aos demais aspectos abordados no mesmo item;
+- Que o conceito relacionado à interface "amistosa” com as ferramentas de TI adotadas para GC não parece ter um peso demasiadamente relevante com relação aos demais aspectos abordados no mesmo item;
 - Confirma a importância do acesso remoto, principalmente numa área operacional;
-- No tocante à facilidade/dificuldade para encontrar o que procura, metade das pessoas que responderam à pergunta (no universo de 18 respostas), consideraram relevante e muito relevante, e a outra metade, pouco relevante.
+- No tocante à facilidade ou dificuldade para encontrar o que procura, metade das pessoas que responderam à pergunta (no universo de 18 respostas), consideraram relevante e muito relevante, e a outra metade, pouco relevante.
 
 ###### 3.2.1.4 - Quais as expectativas em relação aos “conteúdos de conhecimento” disponibilizados?
 
 ![](https://i.imgur.com/s1e93da.png)
 
-Claramente a prioridade aponta para o “conteúdo” a ser disponibilizado, sendo definido como “relevante” ou “muito relevante” para 16 pessoas, das 18 que responderam a esta pergunta. A diversidade de conteúdo foi considerada muito relevante apenas para dois servidores. Já a clareza nas conexões “conteúdos” x “processos”, ficaram praticamente empatados com cinco, quatro e quatro votos,respectivamente para cada grau de resposta, o que não indica uma prioridade para esta opção.
+Claramente a prioridade aponta para o conteúdo a ser disponibilizado, sendo definido como relevante ou muito relevante para 16 pessoas, das 18 que responderam a esta pergunta. A diversidade de conteúdo foi considerada muito relevante apenas para dois servidores. Já a clareza nas conexões “conteúdos x processos” ficou praticamente empatada, com cinco, quatro e quatro votos,respectivamente para cada grau de resposta, o que não indica uma prioridade para esta opção.
 
 Este item confirma, mais uma vez, conforme já detectado no item 3.2.1, que conteúdo e profundidade devem ser priorizados na elaboração dos produtos.
     
@@ -391,25 +408,25 @@ Este item confirma, mais uma vez, conforme já detectado no item 3.2.1, que cont
 
 ![](https://i.imgur.com/DTc1v8S.png)
 
-A principal informação que pode ser extraída desta questão é que 16 dos 17 respondentes consideram relevante ou muito relevante extrair os conhecimentos relacionados com os respectivos processos de trabalho, o que, de certa forma, contraria um pouco a pergunta similar feita no item anterior.  Neste item colocamos um exemplo, o que talvez justifique essa alteração. 
+A principal informação que pode ser extraída desta questão é que 16 dos 17 respondentes consideram relevante ou muito relevante extrair os conhecimentos relacionados com os respectivos processos de trabalho, o que, de certa forma, contraria um pouco a pergunta similar feita no item anterior.  Neste item há um exemplo, o que talvez justifique essa alteração. 
 
-A maioria das pessoas (9 de 15) não considera relevante a possibilidade de tanto disponibilizar conteúdo como de extrair, o que torna a GC uma via de mão dupla. Isso talvez indique a necessidade de um trabalho de esclarecimento, pois a grande parte do conhecimento disponibilizado não vem das pessoas que gerenciam os processos de GC, mas da grande massa de servidores que detêm boa parte desse capital intelectual.
+A maioria das pessoas (9 de 15 respondentes) não considera relevante a possibilidade de tanto disponibilizar conteúdo como de extraí-lo, o que tornaria a GC uma via de mão dupla. Isso talvez indique a necessidade de um trabalho de esclarecimento, pois a grande parte do conhecimento disponibilizado não vem das pessoas que gerenciam os processos de GC, mas da grande massa de servidores que detêm esse capital intelectual.
 
-A ANAC não tem o hábito de recorrer aos especialistas de que dispõe para facilitar e agilizar a solução de problemas. Isto está refletido na pergunta que visa identificar a demanda pelo banco de especialistas. 
+Ainda, a ANAC não tem o hábito de recorrer aos especialistas de que dispõe para facilitar e agilizar a solução de problemas. Isto reflete-se na pergunta que visa identificar a demanda pelo banco de especialistas. 
 
-Apesar de não expressar o interesse que poderia ser previsto inicialmente, sete pessoas consideraram “relevante” e três, “muito relevante” de um total de 15 respostas.  Talvez esse nível de priorização reflita uma baixa compreensão de como um acesso imediato ou muito rápido a um especialista, em um assunto específico, poderia representar um enorme ganho de tempo e qualidade nas decisões envolvendo assuntos mais complexos. 
+Apesar de não expressar o interesse previsto inicialmente, sete pessoas consideraram relevante e três, muito relevante de um total de 15 respostas.  Talvez esse nível de priorização reflita uma baixa compreensão de como um acesso imediato ou muito rápido a um especialista, em um assunto específico, poderia representar um enorme ganho de tempo e qualidade nas decisões envolvendo assuntos mais complexos. 
 
 ###### 3.2.1.6 - Com relação a um “banco de especialistas” (páginas amarelas), você gostaria de:
 
 ![](https://i.imgur.com/VXoYSp3.png)
 
-O resultado das respostas à esta pergunta não deixou de ser uma surpresa. Para as pessoas (13 de 15 respostas), não interessa conhecer a profundidade do especialista sobre o tema. A mesma resposta esclarece que esse nível de conhecimento poderia ser avaliado posteriormente com o próprio especialista. Talvez a leitura à essa priorização seja que os servidores preferem “algumas respostas” a “resposta nenhuma”. 
+Para os servidores da GTAR/RJ (13 de 15 respostas), não lhes é caro conhecer a profundidade do conhecimento do especialista sobre o tema. A mesma resposta esclarece que esse nível de conhecimento poderia ser avaliado posteriormente com o próprio especialista. Talvez a leitura à essa priorização seja que os servidores preferem “algumas respostas” a “resposta nenhuma”. 
 
-Outro aspecto relacionado ao tema, que não envolve somente “profundidade”, mas também o “tipo” de conhecimento em questão, ponto que já havia sido levantado internamente, mas que talvez não esteja explicitado na pergunta - o que seria melhor: um engenheiro mecânico com elevada especialização em um determinado tema, ou um mecânico com 35 anos de experiência na área? 
+Outro aspecto relacionado ao tema, que não envolve somente profundidade, mas também o tipo de conhecimento em questão, ponto que já havia sido levantado internamente, mas que talvez não esteja explicitado na pergunta - o que seria melhor: um engenheiro mecânico com elevada especialização em um determinado tema, ou um mecânico com 35 anos de experiência na área? 
 
-A resposta a esta pergunta provavelmente será: depende do “tipo” de conhecimento que se busca. Por esse motivo, o banco de especialistas terá que permitir, em seu mecanismo de busca, a identificação doo “tipo” de conhecimento que se precisa em uma determinada situação. Essa abordagem não foi contemplada na pesquisa, mas deverá ser avaliada posteriormente. 
+A resposta a esta pergunta provavelmente será: depende do tipo de conhecimento que se busca. Por esse motivo, o banco de especialistas terá que permitir, em seu mecanismo de busca, a identificação do nível de conhecimento que se precisa em uma determinada situação. Essa abordagem não foi contemplada na pesquisa, mas deverá ser avaliada posteriormente. 
 
-Observamos também que todas as 18 pessoas que responderam à pergunta sobre “obter uma resposta o mais rapidamente possível para uma dúvida técnica” consideraram “muito relevante” (12) ou “relevante” (6).  Isso indica que tal aspecto de facilidade e rapidez deverá ser levado em conta na concepção da ferramenta ou interface “servidor” x “banco de especialistas”.
+Observa-se também que todas as 18 pessoas que responderam à assertiva “obter uma resposta o mais rapidamente possível para uma dúvida técnica” consideraram muito relevante (12 respostas) ou relevante (6 apontamentos).  Isso indica que tal aspecto de facilidade e rapidez deverá ser levado em conta na concepção da ferramenta ou interface “servidor x banco de especialistas”.
 
 ##### 3.2.2 – Comentários Adicionais e Sugestões
 
@@ -417,17 +434,17 @@ No campo destinado aos comentários adicionais e sugestões, presente em cada um
 * Obtenção do conhecimento na fonte primária foi considerada uma característica muito relevante.
 * Capacidade intuitiva das ferramentas de TI é uma característica também considerada muito relevante.
 * É muito importante o acesso simples e rápido às ferramentas. Isso gera ganhos de produtividade.
-* Conexão clara com os processos/atividades da Agência também é muito relevante.
+* Conexão clara com os processos e atividades da Agência também é muito relevante.
 * Disseminação muito mais ampla e irrestrita das informações é muito relevante.
 * Possibilidade de incluir e extrair conteúdo do banco de dados (interatividade) também é relevante.
 * Aplicar o conhecimento adquirido nos processos de trabalho é muito relevante.
 * FAQ - Ter conhecimento de uma lista de perguntas e respostas frequentes é muito relevante.
 * Pontos de acesso unificados.
 
->  Várias das perguntas trataram desse ponto, que deverá ser levado em consideração na estruturação das ferramentas a serem adotadas na reestruturação da GC. Independentemente do número ou da diversidade de ferramentas que venham a ser usadas, este aspecto deverá permear as soluções eleitas.
+>  Várias das perguntas trataram desse ponto, que deverá ser levado em consideração na estruturação das ferramentas a serem adotadas na reestruturação da GC. Independentemente do número ou da diversidade de ferramentas que venham a ser utilizadas, este aspecto deverá permear as soluções eleitas.
 > [color=#1b71e2]
 
-* Informações objetivas e resumidas (com links para aprofundamento, se desejado).
+* Informações objetivas e resumidas (com *links* para aprofundamento, se desejado).
  
 > Esta proposta parece ser interessante, e é uma forma de abordagem que pode ser adotada em vários dos produtos que, juntos, compõem o Projeto de GC. A avaliação de aplicabilidade deverá ser feita para cada produto ou ferramenta, mas aparentemente é de fácil implementação.
 > [color=#1b71e2]
@@ -436,10 +453,9 @@ No campo destinado aos comentários adicionais e sugestões, presente em cada um
 
 >Trata-se aqui de um problema recorrente de TI, que sempre vem à tona quando falamos de novos projetos e soluções informatizadas que envolvam banco de dados. Consideraremos a questão e soluções ao nosso alcance.
 > [color=#1b71e2]
-> [color=#1b71e2]
-* Acabar com a inovação desenfreada com sistemas sempre novos, que não eliminam os antigos, não conversam entre si, e que o pessoal de ponta de linha não é suficientemente consultado/convidado a participar dos novos projetos onde, muitas vezes, a simples manutenção de sistemas antigos resolve o problema.
+* Acabar com a criação sem rigor de sistemas novos, que não eliminam os antigos, não conversam entre si, e que o pessoal de ponta de linha não é suficientemente consultado/convidado a participar dos novos projetos onde, muitas vezes, a simples manutenção de sistemas antigos resolve o problema.
 
-> Esse ponto abordado é relevante e um problema também frequente, mas a abordagem que está sendo proposta para a reestruturação da GC é bem diferenciada e irá realmente requerer novas ferramentas. Talvez a crítica se aplique mais às ferramentas mais operacionais, usadas no dia-a-dia dos inspetores (Saci, Sistema interno SAR de controle de processos, SEI, etc.). No caso específico de GC, provavelmente a necessidade de coletar dados em diversas fontes faça com que as ferramentas necessitem dessa conectividade. De qualquer forma, consideraremos o comentário.
+> Esse ponto abordado é relevante e um problema também frequente, mas a abordagem que está sendo proposta para a reestruturação da GC é abrangente, requerendo novas ferramentas. Talvez a crítica se aplique mais às ferramentas operacionais, usadas no dia-a-dia dos inspetores (Saci, Sistema interno SAR de controle de processos, SEI). No caso específico de GC, provavelmente a necessidade de coletar dados em diversas fontes faça com que as ferramentas necessitem dessa conectividade. De qualquer forma, consideraremos o comentário.
 > [color=#1b71e2]
 
 ##### 3.2.3 – Conclusões da aplicação do questionário
@@ -448,7 +464,7 @@ Primeiramente, cabe ressaltar que o diagnóstico ora tratado tentou ser fiel ao 
 
 O segundo ponto relevante foi a reestruturação organizacional por que passou a ANAC e, sobretudo, a SAR, que não será abordada no presente relatório, mas que irá exigir uma inteira reformulação de todo o Projeto de GC.
 
-Iniciando as considerações, ressalta-se que o questionário foi aplicado na GTAR-RJ, uma área com **características essencialmente operacionais**, e por conseguinte, os resultados refletem anseios e necessidades focadas mais nesse sentido. É possível, ou mesmo provável, que, em uma área com foco em planejamento ou atividades mais estratégicas, os resultados fossem distintos, talvez até opostos. O importante no diagnóstico é captar uma “fotografia de expectativas” para que, no decorrer do projeto, possam ser ao máximo contempladas.
+Iniciando as considerações, ressalta-se que o questionário foi aplicado na GTAR-RJ, uma área com **características essencialmente operacionais**, e por conseguinte, os resultados refletem anseios e necessidades focadas nesse sentido. É possível, ou mesmo provável que, em uma área com foco em planejamento ou atividades mais estratégicas, os resultados fossem distintos, talvez até opostos. O importante no diagnóstico é captar uma “fotografia de expectativas” para que, no decorrer do projeto, possam ser ao máximo contempladas.
 
 No tocante ao conteúdo do questionário, as perguntas objetivas são mais representativas, pois expressam a opinião da maioria dos que responderam ao questionário. Já as perguntas subjetivas são respondidas por um número menor de pessoas, ou em algumas situações, apenas por uma pessoa.  
 
@@ -473,11 +489,11 @@ No tocante ao conteúdo do questionário, as perguntas objetivas são mais repre
 |5 | Disseminação ampla das informações|11|	Limites para inclusão de novas ferramentas|
 |6| Interatividade com banco de dados|	
 
-Conforme anteriormente citado, outras áreas terão interesses e necessidades diversas, e o conjunto de ferramentas que comporá a Gestão do Conhecimento na SAR (ou Sistema de GC) terá que, de alguma forma, buscar atender a todos, mais cedo ou mais tarde.
+Conforme anteriormente citado, outras áreas possivelmente terão interesses e necessidades diversas, e o conjunto de ferramentas que comporá a Gestão do Conhecimento na SAR (ou Sistema de GC) terá que, de alguma forma, buscar abranger a todos.
 
-Algumas escolhas não excluem outras. Quando as pessoas dizem que preferem a “profundidade” à “diversidade” de conhecimentos, elas não estão dizendo que um grande volume de conteúdo com muita qualidade e profundidade não seria bem-vindo. Entretanto, como os recursos são limitados, o diagnóstico fornece pelo menos um norte para a priorização do que deverá ser o foco inicial de cada produto que compõe o Projeto de GC.
+Algumas escolhas não excluem outras. Quando as pessoas dizem que preferem profundidade à diversidade de conhecimentos, elas não estão sinalizando que um grande volume de conteúdo com muita qualidade e profundidade não seria bem-vindo. Entretanto, como os recursos são limitados, o diagnóstico fornece um norte para a priorização do que deverá ser o foco inicial de cada entrega que compõe o Projeto de GC.
 
-#### 3.3 - Necessidades futuras e soluções localizadas
+### 4 - Necessidades futuras e soluções localizadas
 
 O avanço do estudo sobre as necessidades das áreas e as limitações atuais das ferramentas atualmente utilizadas tanto pela GTGC quanto pelas áreas entrevistas, conduziu a pesquisa para a identificação preliminar de rotas a serem seguidas.
 
@@ -487,17 +503,25 @@ De forma a subsidiar o trabalho a ser conduzido produto 4.1 (definição de ferr
 
 Foram localizadas a construção de ***Knowledge Graphs (KG)*** (grafos de conhecimento), usando bases de dados com grafos, por diversas corporações e instituições de escala global. Dentre estas, desca-se a utilização pelo Google e pela NASA:
 
-* [Introducing the Knowledge Graph - Google](https://www.youtube.com/watch?v=mmQl6VGvX-c) (youtube)
+* [Introducing the Knowledge Graph - Google](https://www.youtube.com/watch?v=mmQl6VGvX-c) (YouTube - 2:44)
 
-[![](http://img.youtube.com/vi/mmQl6VGvX-c/0.jpg)](http://www.youtube.com/watch?v=mmQl6VGvX-c "")
+[![Introducing the Knowledge Graph - Google - tela do tempo 1:15 do vídeo apresentando um grafo com ganhadores do prêmio Nobel de física](https://i.imgur.com/KgpTh9U.jpg)](http://www.youtube.com/watch?v=mmQl6VGvX-c "")
 
-* [How NASA Finds Critical Data Through a Knowledge Graph - DAVID MEZA, CHIEF KNOWLEDGE ARCHITECT, NASA, 2 de nov. de 2016](http://www.youtube.com/watch?v=WUnScaOIoN0) (youtube)
+É interessante observar no vídeo (tempo 2:04) que a modificação do sistema de buscas do Google para agregar modelos com grafos permitiu o **enriquecimento das respostas retornadas**. Neste exemplo, considerando uma busca sobre "Leonardo da Vinci", foi introduzido um quadro com informações estruturadas (extraídas da Wikipedia) **apresentando relacionamentos não conhecidos pela pessoa que realizou a busca**, tais como os dados biográficos, as pinturas e as buscas semelhantes, exibidos na imagem abaixo:
 
-[![](http://img.youtube.com/vi/WUnScaOIoN0/0.jpg)](http://www.youtube.com/watch?v=WUnScaOIoN0 "")
+![Imagem da busca sobre o pintor Leonardo da Vinci incluindo informações estruturadas derivadas da utilização de grafos para enriquecer as buscas](https://i.imgur.com/Ef2MVeL.jpg)
 
-* [Building a Knowledge Graph for the International Space Station - David Meza, Chief Knowledge Architect, NASA, 20 de jun. de 2019](https://www.youtube.com/watch?v=8TVBjMgDRCY) (youtube)
+> Na seção a seguir mostraremos a possibilidade de **comportamento semelhante para as buscas com o protótipo construído para a ANAC**.
+> [color=#1b71e2]
 
-[![](http://img.youtube.com/vi/8TVBjMgDRCY/0.jpg)](http://www.youtube.com/watch?v=8TVBjMgDRCY "")
+* [How NASA Finds Critical Data Through a Knowledge Graph - DAVID MEZA, CHIEF KNOWLEDGE ARCHITECT, NASA, 2 de nov. de 2016](http://www.youtube.com/watch?v=WUnScaOIoN0) (YouTube - 39:56)
+
+[![How NASA Finds Critical Data Through a Knowledge Graph - DAVID MEZA, CHIEF KNOWLEDGE ARCHITECT, NASA - tela do tempo 15:29 do vídeo apresentando lições aprendidas sobre modelos de grafos para base de dados na gestão do conhecimento da NASA](https://i.imgur.com/wZjG5xi.jpg)](http://www.youtube.com/watch?v=WUnScaOIoN0 "")
+
+
+* [Building a Knowledge Graph for the International Space Station - David Meza, Chief Knowledge Architect, NASA, 20 de jun. de 2019](https://www.youtube.com/watch?v=8TVBjMgDRCY) (YouTube - 16:59)
+
+[![Building a Knowledge Graph for the International Space Station - David Meza, Chief Knowledge Architect, NASA, 20 de jun. de 2019 - tela do tempo 7:49 do vídeo indicando como transformar uma base de dados baseada em documentos para uma base de dados com grafos](https://i.imgur.com/ubxCK0X.png)](http://www.youtube.com/watch?v=8TVBjMgDRCY "")
 
 Dentre algumas das características dessa forma de estruturar o relacionamento entre as informações e o conhecimento organizacional, estão:
 
@@ -528,9 +552,9 @@ _To have a triple we need a subject and object, and a predicate linking the two.
 
 Isso permite, por exemplo, a conexão de dados (documentos, informações, conhecimentos) de uma forma intuitiva, utilizando marcações gerenciáveis (taxonomias) sobre as informações, facilitando a recuperação dos dados e seus relacionamentos. Permite assim, de modo mais fácil, **manipular os ativos de informação para acompanhar as transformações e mudanças nas organizações**.
 
-###### 3.1.4.2 - Construindo um protótipo de _Knowledge Graph_ para a ANAC
+### 5 - Construindo um protótipo de _Knowledge Graph_ para a ANAC
 
-Para criar um grafo de conhecimento é necessário encontrar uma maneira útil de vincular os dados, de modo que seja possível estabelecer - para os **elementos** e as **conexões** - um conjunto de **termos de negócios comuns** (tipos de dados, propriedades, valores). Com isso, cria-se uma estrutura semântica subjacente à malha de dados, capaz de funcionar de forma interoperáve entre diversos sistemas. 
+Para criar um grafo de conhecimento (KG - *Knowledge Graph*) é necessário encontrar uma maneira útil de vincular os dados, de modo que seja possível estabelecer - para os **elementos** e as **conexões** - um conjunto de **termos de negócios comuns** (tipos de dados, propriedades, valores). Com isso, cria-se uma estrutura semântica subjacente à malha de dados, capaz de funcionar de forma interoperáve entre diversos sistemas. 
 
 Estes termos, por exemplo, podem ser **extraídos da própria estrutura organizacional formal ou dos fluxos informais de informação**, como visto anteriormente nas anotações das entrevistas realizadas.
 
@@ -548,15 +572,18 @@ Devido às constrições de escopo, tempo e recursos, bem como das limitações 
 
 Foram aplicadas duas abordagens complementares para os testes do protótipo. A **primeira**, apresentada abaixo, utilizou a entrevista com a GTRAB e procurou identificar os fluxos informacionais e as competências atribuidas pela Gestora para os servidores.
 
-> **GTRAB** - https://kumu.io/anac/rab
+> **GTRAB** 
 > [color=#1b71e2]
+> Painel: https://kumu.io/anac/rab
+> *Iframe*: https://embed.kumu.io/53b9648f57eeb00e0bbb83d38de199c2
+>![GTRAB - https://kumu.io/anac/rab](https://i.imgur.com/Tv3CCnj.png)
 
-<iframe src="https://embed.kumu.io/53b9648f57eeb00e0bbb83d38de199c2" width="100%" height="940" frameborder="0"></iframe>
+Foram desenvolvidas **_camadas_ de informações** relacionando **Área, Pessoa e Tema**", como pode ser filtrado no topo da página (acessando o [painel com o grafo do RAB](https://kumu.io/anac/rab) o comportamento poderá ser testado). Além disso, foi adicionada uma ferramenta nativa para comentários e iniciado o teste sobre as **ferramentas de decoração**, utilizando a linguagem de folhas de estilo **CSS**. 
 
-Foram desenvolvidas **_camadas_ de informações** relacionando **Área, Pessoa e Tema**, como pode ser filtrado no topo da página. Além disso, foi adicionada uma ferramenta nativa para comentários e iniciado o teste sobre as **ferramentas de decoração**, utilizando a linguagem de folhas de estilo **CSS**. 
+O código do CSS resultante deste painel está expresso a seguir:
 
-O código do CSS resultante está expresso a seguir:
-
+> View: RAB GERAL (CSS)
+> [color=#1b71e2]
 ```CSS
 @controls {
   top {
@@ -582,20 +609,42 @@ O código do CSS resultante está expresso a seguir:
 
 É importante salientar que a decoração do grafo, longe do senso comum que avalia o assunto como mero "estilo" ou "perfumaria", é o que permite a melhoria da capacidade de visualização das relações entre os dados, considerando os pesos relativos de cada ativo informacional, sejam **elementos** (SUJEITOS - OBJETOS) ou **conexões** (PREDICADOS).
 
-A **segunda** abordagem para o desenvolvimento do protótipo considerou incialmente a **estrutura organizacional da SAR e as informações disponíveis**. Novas camadas foram adicionadas à medida em que os dados foram localizados, a saber: **pessoas, organização, serviços, projetos e bases de dados**.
+A **segunda** abordagem para o desenvolvimento do protótipo considerou incialmente a **estrutura organizacional da SAR e as informações disponíveis**. Novas camadas foram adicionadas à medida em que os dados foram localizados, a saber: **pessoas** (_Person_), **organização** (_Organization_), **serviços** (_Services_), **projetos** (_Project_) e **bases de dados** (_Database_).
 
-> **ANAC - SAR** - https://kumu.io/anac/anac
+> **ANAC - SAR** 
 > [color=#1b71e2]
- 
-<iframe src="https://embed.kumu.io/3ac765416e379d6f561e0e991322be4a" width="100%" height="600" frameborder="0"></iframe>
+> * Painel: https://kumu.io/anac/anac
+> * Iframe: https://embed.kumu.io/3ac765416e379d6f561e0e991322be4a
+> 
+> ![](https://i.imgur.com/EUWEGMq.png)
 
 Nesse segundo modelo foram realizados avanços substanciais nas diversas possibilidades de visualização e ocultação de informações específicas, visando **evitar a sobrecarga de informações aos usuários**. 
 
-Foram também criadas **camadas automáticas de agrupamento de dados** por tipos constitutivos, pop-ups (_popover_, termo utilizado na ferramenta) com informações não estruturadas sobre elementos e conexões, decorações especiais para facilitar identificação dos ativos de informação, decorações especiais sobre os vínculos estabelecidos (diferenciando gestores de servidores), além de outras melhorias.
+Foram também criadas: 
+
+> [color=#1b71e2]
+> * **Camadas automáticas de agrupamento de dados** por tipos constitutivos.
+> 
+> ![](https://i.imgur.com/3vtfA0U.png)
+ 
+> [color=#1b71e2]
+> * **Quadros em pop-ups** (_popover_, termo utilizado na ferramenta), com **informações estruturadas** (títulos, links, etc.) e **não estruturadas** (texto livre, escrito em [_Markdown_](https://kumu.io/anac/anac#default/teste-de-temas/modelo-markdown)) sobre elementos e conexões.
+> 
+> ![](https://i.imgur.com/buXy5rj.png)
+> \* Exemplo da busca para a GTRAB exibindo a Gestora e as competências da gerência.
+ 
+> [color=#1b71e2]
+> * **Decorações especiais** para facilitar identificação dos **ativos de informação** e dos **vínculos estabelecidos**.
+> 
+> ![](https://i.imgur.com/0tztYlE.png)
+> 
+> ![](https://i.imgur.com/kEiS5bD.png)
+> \* Exemplos de uma busca e posterior exibição do ativo de informação diferenciando formatos (projetos, serviços, pessoas, bases de dados) e tipos de conexões (gestor, curador de dados, etc.), além de outras melhorias.
+
 
 O código CSS das visualizações (_views_) desenvolvidas estão expressos a seguir:
 
-> View: GENERAL
+> View: GENERAL (CSS)
 > [color=#1b71e2]
 
 ```CSS
@@ -667,7 +716,7 @@ connection {
 
 ```
 
-> View: CONNECTIONS
+> View: CONNECTIONS (CSS)
 > [color=#1b71e2]
 ```CSS
 @controls {
@@ -743,7 +792,7 @@ connection {
 }
 ```
 
-> View: GROUPS
+> View: GROUPS (CSS)
 > [color=#1b71e2]
 
 ```CSS
@@ -822,15 +871,24 @@ element {
 }
 ```
 
-<iframe src="https://embed.kumu.io/3ab9f393b881ce95455f91246501b564" width="100%" height="600" frameborder="0"></iframe>
 
-Adicionalmente também foi **adaptado para português um tutorial sobre os principais recursos da ferramenta para facilitar a utilização da mesma**. Essa categoria de ativos informacionais está descrita como **#Tools** (elementos na cor vermelha).
+> **AJUDA**
+> [color=#1b71e2]
+> Adicionalmente também foi **adaptado para português um [tutorial sobre os principais recursos da ferramenta](https://kumu.io/anac/anac#default/connections/modelo-markdown?focus=2) para facilitar a utilização por outros servidores**. 
+> 
+> ![](https://i.imgur.com/QrJhnwO.png)
+> 
+> \* Essa categoria de ativos de informação está descrita como **#Tools** (elementos na cor vermelha).
 
-Destaca-se aí a paridade da ferramenta kumu.io com as **boas práticas para dados na web**. Cada elemento, conexão ou estrutura virtual de visualização (agrupamentos, filtros e outras) ganha um endereço unívoco, uma URL única, capaz de ser relacionada como link ou *iframe* a qualquer outro documento disponibilizado na web.
+Destaca-se aí a paridade da ferramenta kumu.io com as **boas práticas para dados na web**. Cada elemento, conexão ou estrutura virtual de visualização (agrupamentos, filtros e outras) ganha um endereço unívoco, um URL único, capaz de ser relacionado como link ou *iframe* a qualquer outro documento que siga os padrões da web.
 
 Visando o teste para os objetivos de criação de um **Banco de Especialistas**, como pensado na fase de proposição e planejamento do projeto, foi criada junto com os demais integrantes da GTGC uma visualização específica chamada **Teste de temas**. Tal visulização **agrupa por meio de _tags_ quaisquer elementos dos grafos** que assim estejam marcados (cor laranja).
 
-> View: Teste de Temas
+> **BANCO DE ESPECIALISTAS**\*
+> [color=#1b71e2]
+>  ![](https://i.imgur.com/kO8djFk.png)
+
+>  \*View: Teste de Temas (CSS)
 > [color=#1b71e2]
 ```CSS
 @controls {
@@ -901,8 +959,6 @@ connection {
 }
 ```
 
-<iframe src="https://embed.kumu.io/469e49d7f92c06b866ac10cb2c700ff7" width="100%" height="600" frameborder="0"></iframe>
-
 Por fim, é importante destacar que a avaliação do protótipo com a ferramenta teve uma **curva de aprendizado relativamente rápida**.
 
 Recursos de **filtros considerando diversas condições lógicas**, bem como a capacidade de **buscar por texto livre** e o estabelecimento de nível de profundidade do foco sobre os elementos, parecem ser promissores para os desafios de gestão do conhecimento na superintendência, pois **facilita a localização de dados desejados, conforme mapeados nas ferramentas utilizadas no diagnóstico**.
@@ -913,17 +969,49 @@ Ao mesmo tempo, destaca-se que o modelo de construção dos grafos no kumu.io te
 
 > DADOS BRUTOS DO PROTÓTIPO
 > [color=#1b71e2]
-> * [Arquivo **.xlsx**](https://github.com/gabrielmacedo/anac/blob/master/kumu-anac-anac-Diagnostico.xlsx)
-> * [Arquivo **.json**](https://github.com/gabrielmacedo/anac/blob/master/kumu-anac-anac-Diagnostico.json)*
+> * [Arquivo **.xlsx**](https://github.com/gabrielmacedo/anac/blob/master/kumu-anac-anac-Diagnostico.xlsx) - https://github.com/gabrielmacedo/anac/blob/master/kumu-anac-anac-Diagnostico.xlsx
+> * [Arquivo **.json**](https://github.com/gabrielmacedo/anac/blob/master/kumu-anac-anac-Diagnostico.json)* - https://github.com/gabrielmacedo/anac/blob/master/kumu-anac-anac-Diagnostico.json
 > 
-> \* O arquivo .json carrega as configurações de decoração do CSS das _views_.
+> \* Apenas o arquivo .json carrega as configurações de decoração do CSS das _views_.
 
-Por fim, informa-se também da **possibilidade da ferramenta ler dados externos em tempo real**, disponíveis, por exemplo, em uma planilha online ou em qualquer arquivo .json que esteja online, facilitando a recuperação de informações produzidas por sistemas de terceiros.
+Informa-se também da **possibilidade da ferramenta ler dados externos em tempo real**, disponíveis, por exemplo, em uma planilha online ou em qualquer arquivo .json que esteja na web, facilitando a recuperação de informações produzidas por sistemas de terceiros. Outro recurso interessante, ainda não testado, é a capacidade de construir grafos navegáveis sobre mapas ou imagens 2D (planta-baixa, desenhos esquemáticos e outros).
 
-### 4 - Direcionadores
+### 6 - Direcionadores para o projeto
+
+Como encaminhamento deste diagnóstico, considera-se a **possiblidade imediata de refinar as informações disponibilizadas e de agregar outras camadas de ativos organizacionais ao protótipo**. 
+
+Como revelado pela pesquisa, estes ativos de informação são necessidades atuais da Superintendência e visam corrigir deficiências de gestão do conhecimento na ANAC, há muito enfrentada por servidores e gestores do órgão.
+
+> **EXEMPLOS DE INFORMAÇÕES RELEVANTES E FONTES A SEREM AGREGADAS**
+> [color=#1b71e2]
+> * Planejamento estratégico (perspectivas, objetivos, metas, indicadores) e seus responsáveis
+> * Agenda regulatória
+> * Riscos identificados
+> * Conjunto normativo e auxílios (regulamentos, interpretações, manuais, ajudas de trabalho, checklists, etc.)
+> * Trilhas de aprendizagem
+> * Comissões internas e seus responsáveis
+> * Macroprocessos, processos de negócio, processos de trabalho
+> * Orçamento
+> * Sistemas
+> * Regulados
+> * Aeronaves
+> * Aeródromos
+> * Análises de Impacto Regulatório (AIR)
+> * Análises de Resultado Regulatório (ARR)
+> * Autos de infração
+> * Avaliação de qualidade de serviços
+> 
+> Além de qualquer outra informação da agência que não precise de proteção, contribuindo para a **tomada de decisões bem informadas** e para os objetivos de **transparência ativa**.
+
+Ainda, considerando as técnicas aplicadas - entrevistas semi-estruturadas com gestores e pessoal-chave e questionário para servidores, bem como a diversidade de áreas as quais foi aplicado o projeto piloto - áreas operacionais (GTAR/RJ e GTRAB) e áreas transversais (GTPA), as conclusões que podem ser depreendidas do diagnóstico realizado são, justificadamente, não homogêneas. Tal fato pode ser explicado pelas necessidades diversas de cada área e suas peculiaridades nas rotinas de trabalho.
+
+Dessa forma, recomenda-se que as próximas etapas do Projeto de Reestruturação da GC na SAR levem em consideração as conclusões apresentadas neste relatório (presentes nas seções 3.1.3 e 3.2.3) com ressalvas, ponderando se os indicativos aqui discorridos podem ser aplicados, atentando-se a:
+* Características de cada setor (áreas operacionais ou transversais);
+* Abertura à aplicação de gestão do conhecimento nas áreas;
+* Necessidade de introdução de conceitos de GC para gerar valor nos processos; e
+* Possibilidade de aplicar o conceito de gestão do conhecimento nas rotinas diárias.
 
 
-
-### 5 - Referências
+### 7 - Referências
 
 * Batista, Fábio Ferreira. Modelo de gestão do conhecimento para a administração pública brasileira: como implementar a gestão do conhecimento para produzir resultados em benefício do cidadão/Fábio Ferreira Batista. Brasília: Ipea, 2012.
