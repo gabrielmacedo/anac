@@ -31,11 +31,11 @@ Foram cobertos os seguintes pontos:
 De modo complementar, durante a evolução do projeto e a realização do diagnóstico, considerando principalmente as necessidades mais urgentes da superintendência, também foi possível relacionar:
 
 1. Áreas temáticas para a gestão do conhecimento e pessoal-chave relacionado (GTRAB e GTPA).
-1. Necessidades imediatas de gestão do conhecimento das gerêcencias e demandas vinculadas aos projetos específicos para 2020, desenvolvidos em conjunto entre a GTGC e as gerências (GTRAB e GTPA).
+1. Necessidades imediatas de gestão do conhecimento das gerências e demandas vinculadas aos projetos específicos para 2020, desenvolvidos em conjunto entre a GTGC e as gerências (GTRAB e GTPA).
 
-Ressalta-se que esse documento também pode ser acessado pelo link XXXXXX.
+Ressalta-se que esse documento também pode ser acessado pelo link https://demo.codimd.org/s/rJPrHEYND para habilitar as opções de navegação e permitir a criação de trabalhos derivados.
 
-### 2  Introdução
+### 2 - Introdução
 
 O ponto de partida do **Projeto de Reestruturação da GC na SAR** é a identificação do problema a ser abordado, descrito como:
 
@@ -61,7 +61,7 @@ A percepção do problema na GTGC, considerando a adesão mais abrangente por pa
 
 Assim, torna-se imperativo, ao mesmo tempo: 1) **restringir as opções** em função dos recursos e das limitações da equipe disponível; e 2) encontrar uma forma de **testar conceitos** e usabilidade das ferramentas para os executores do projeto na GTGC, os gestores e os demais servidores.
 
-### 3 – Desenvolvimento do diagnóstico
+### 3 - Desenvolvimento do diagnóstico
 
 Conforme descrito acima, visando lidar com as incertezas do objeto pesquisado e com o contexto de migração imediata para o trabalho remoto, em função da pandemia da COVID-19, foram aplicadas duas técnicas de pesquisa: **entrevistas semi-estruturadas com gestores e pessoal-chave** (GTRAB e GTPA) e **questionário para servidores** (GTAR-RJ).
 
@@ -79,7 +79,7 @@ A realização das entrevistas semi-estruturadas com gestores e com o pessoal-ch
 
 _Adaptação do modelo de **Ciclo Contínuo de Gestão do Conhecimento**_![Adaptação do modelo de Ciclo Contínuo de Gestão do Conhecimento - IPEA, 2012](https://i.imgur.com/YIRbzIH.png)
 
-O diagrama, ao entender a GC como um ciclo contínuo, oferece indicações da natureza do trabalho necessário sobre o conhecimento organizacional. Nesse sentido, o objetivo principal da entrevista, considerando o problema de partida do projeto, foi identificar os viabilizadores da GC em cada gerência (**pessoas, processos e tecnologias**), entendidos para o contexto deste diagnóstico como os **direcionadores estratégicos da GC**.
+O diagrama, ao entender a GC como um ciclo contínuo, oferece indicações da natureza do trabalho necessário sobre o conhecimento organizacional. Nesse sentido, o objetivo principal da entrevista, considerando o problema de partida do projeto, foi identificar os viabilizadores da GC em cada gerência (**pessoas, processos e tecnologias** - o viabilizador _liderança_ não foi avaliado), entendidos para o contexto deste diagnóstico como necessários aos **direcionadores estratégicos da GC** (_visão, missão, objetivo estratégico, estratégias, metas e lacuna estratégica de conhecimento_) para a agência.
 
 A **equipe** prevista e envolvida na entrevista consistiu de:
 
@@ -105,7 +105,7 @@ Uma das características da entrevista semi-estruturada é a utilização de um 
 > 3. Qual o caminho para buscar esses conhecimentos?
 > [color=#1b71e2]
 
-É importante destacar que essas perguntas, além de direcionarem o desenvolvimento do trabalho, procuram despertar nos entrevistados qual o sentido da conversa que será estabelecida, sendo a condução das entrevistas um momento mais descrontraído, de aprofundação investigativa sobre as **experiências e realidades vivenciadas** em cada contexto organizacional. Portanto, cabe ao entrevistador aguçar os participantes a relatarem em detalhes os desafios enfrentados, promovendo um ambiente de confiança e de compartilhamento sincero.
+É importante destacar que essas perguntas, além de direcionarem o desenvolvimento do trabalho, procuram despertar nos entrevistados qual o sentido da conversa que será estabelecida, sendo a condução das entrevistas um momento mais descontraído, de aprofundação investigativa sobre as **experiências e realidades vivenciadas** em cada contexto organizacional. Portanto, cabe ao entrevistador aguçar os participantes a relatarem em detalhes os desafios enfrentados, promovendo um ambiente de confiança e de compartilhamento sincero.
 
 Além do roteiro, foi pensado como suporte para a documentação da entrevista a utilização de um **Plano de GC**. Tal recurso visava estabelecer o compromisso de cada gerência da SAR com as estratégias a serem implementadas, levando em consideração o planejamento estratégico da ANAC e a inserção de cada área nos objetivos institucionais. 
 
@@ -267,7 +267,7 @@ Qualidade de respostas emitidas pelas áreas da SAR para os regulados.
 
 ##### 3.1.3 - Síntese dos resultados das entrevistas
 
-Compreender os desafios das áreas entrevistadas através da relação dos **direcionadores estratégicos de GC**, contando com a participação de gestores e do pessoal-chave, se constituiu numa prática simples de ser implementada e com um potencial interessante de replicação para outras gerências.
+Compreender os desafios das áreas entrevistadas através da relação dos **viabilizadores de GC** (pessoas, processos e tecnologias), contando com a participação de gestores e do pessoal-chave, se constituiu numa prática simples de ser implementada e com um potencial interessante de replicação para outras gerências.
 
 A técnica de entrevista semi-estruturada permitiu reunir, num curto espaço de tempo, as necessidades e expectativas gerais sobre gestão do conhecimento; a infraestrutura e as ferramentas utilizadas em cada gerência; e os conteúdos principais sobre processos e atividades desenvolvidas.
 
@@ -1015,3 +1015,4 @@ Dessa forma, recomenda-se que as próximas etapas do Projeto de Reestruturação
 ### 7 - Referências
 
 * Batista, Fábio Ferreira. Modelo de gestão do conhecimento para a administração pública brasileira: como implementar a gestão do conhecimento para produzir resultados em benefício do cidadão/Fábio Ferreira Batista. Brasília: Ipea, 2012.
+
