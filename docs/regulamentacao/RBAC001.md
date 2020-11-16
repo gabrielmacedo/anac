@@ -4,7 +4,7 @@
 ---
 # RBAC nº 01
 
-_TOC_
+[TOC]
 
 Teste para utilização do RBAC nº 01 usando Markdown
 
