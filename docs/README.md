@@ -9,5 +9,6 @@ Um repositório para testes de aplicações para a ANAC.
 teste
 
 
-{{ page.title }}
-{{ site.pages | sort: "title"}}
+{page.title}
+
+{site.pages|sort: "title"}
