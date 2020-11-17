@@ -1,5 +1,5 @@
 ---
- layout: page
+ layout: post
  title: "RBAC nº 121"
  categories: regulamentação
  tags: "norma"
