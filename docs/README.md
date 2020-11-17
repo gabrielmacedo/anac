@@ -10,5 +10,5 @@ teste
 
 ### Começo das postagens ###
 
-{{pages.post}}
+{{ site.pages | sample }}
 
