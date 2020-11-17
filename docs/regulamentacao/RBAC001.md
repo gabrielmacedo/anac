@@ -1,7 +1,7 @@
 ---
+ layout: post
  title: "RBAC nº 01"
  categories: regulamentação
- 
 ---
 
 # RBAC nº 01
