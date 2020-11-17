@@ -10,9 +10,4 @@ teste
 
 
 {{ page.title }}
-
-{{ page.tags | sort }}
-
-{{ site.posts | sort: "author" }}
-
-{{ site.pages | sort: "title", "last" }}
+{{ site.pages | sort: "title"}}
