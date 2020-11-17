@@ -4,6 +4,7 @@
  description:
  emenda:
  data da publicação:
+ categories: regulamentação
  
 ---
 
