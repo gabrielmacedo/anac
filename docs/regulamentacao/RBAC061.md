@@ -1,5 +1,5 @@
 ---
- layout: page
+ layout: post
  title: "RBAC nº 061"
  categories: regulamentação
 ---
