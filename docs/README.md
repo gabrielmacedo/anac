@@ -10,6 +10,7 @@ teste
 
 ### Começo das postagens ###
 
+```
 <ul>
   {% for post in site.posts %}
     <li>
@@ -19,4 +20,4 @@ teste
 </ul>
 
 {{ site.posts | post.title }}
-
+```
