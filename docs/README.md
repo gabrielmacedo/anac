@@ -10,6 +10,5 @@ teste
 
 ### Começo das postagens ###
 
-{{site.pages}}
+{{pages}}
 
-{{site.documents}}
