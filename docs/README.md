@@ -18,5 +18,5 @@ teste
   {% endfor %}
 </ul>
 
-{{ site.posts | sample }}
+{{ site.posts | posts }}
 
