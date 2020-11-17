@@ -10,4 +10,4 @@ teste
 
 ### Começo das postagens ###
 
-{{ site.pages }}
+{{ site.posts }}
