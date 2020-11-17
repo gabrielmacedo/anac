@@ -2,6 +2,7 @@
  layout: page
  title: "RBAC nº 121"
  categories: regulamentação
+ tags: "norma"
 ---
 
 # RBAC nº 121
